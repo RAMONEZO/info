@@ -16,3 +16,5 @@ git pull
 Авторство коммитов:
 git --global user.email "Ваш емайл"
 git --global user.name "Ваше имяя"
+
+ПТПИТ ДЗ 22.10.2020
